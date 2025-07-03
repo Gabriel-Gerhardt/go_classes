@@ -1,4 +1,4 @@
-module mod
+module gorm
 
 go 1.24.2
 
